@@ -1,7 +1,7 @@
 # Syracuse Weather and Road Predictions
  - Catie Shelton (cshelto1) - GitHub repository owner
  - Ed Cogan (CopoM5)
- - Marina
+ - Marina Mitiaeva (marinamitaeva)
  - Abhi Chakraborty
  - Jackson Bayuk
 
@@ -43,7 +43,7 @@ To analyze how weather conditions impact roadways and contribute to deterioratio
 This proposal outlines a machine learning project aimed at analyzing the relationship between meteorological factors and road conditions, with a focus on predicting road deterioration and pothole formation in Syracuse, NY. 
 One potential risk for this project is the quality and reliability of the data sources. While the weather dataset from NASA's POWER Data Access Viewer and the road-related datasets from the City of Syracuse's Open Data Portal provide valuable information, there may be inconsistencies, inaccuracies, or missing data that could impact the effectiveness of the machine learning algorithm. 
 
-Additionally, since the weather data spans a period of 40 years, there may be changes in data collection methods or environmental factors over time that could introduce biases or uncertainties into the analysis. Furthermore, the complexity of correlating weather variables with road conditions and pothole occurrences using machine learning techniques may pose challenges in model interpretation and generalizability. 
+Additionally, since the weather data spans a period of 40 years, there may be changes in data collection methods or environmental factors over time that could introduce biases or uncertainties into the analysis. Changes in construction standards, materials, and road maintenance practices could affect how weather conditions impact road quality. The model might not account for these non-linear and time-dependent factors without incorporating additional data on infrastructure changes.Furthermore, the complexity of correlating weather variables with road conditions and pothole occurrences using machine learning techniques may pose challenges in model interpretation and generalizability. 
 
 It's essential to carefully evaluate and preprocess the data, consider potential extraneous variables, and validate the model to mitigate these risks and ensure the reliability of the results.
 
