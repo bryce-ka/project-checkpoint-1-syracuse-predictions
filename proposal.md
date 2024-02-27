@@ -96,17 +96,21 @@ By following this approach, we aim to develop a robust and interpretable model t
 
 ### Project Plan
 
-Week	Details	Milestone
-Feb 20 - Feb 26	Identify Data Sets, Identify Problem	Present Proposal, Datasets Identified
-Feb 27 - March 4	Stakeholder Analysis, EDA, Initial Visualization	Completed Stakeholder Analysis and data exploration
-March 5 - March 11	Preprocessing of Data	Data is preprocessed and cleaned
-March 12 - March 18	Initial description	Data Description
-March 19 - March 25	Decide on classifiers	Preliminary Descriptive Analysis
-March 26 - April 1	Preliminary model runs	Project Checkpoint 2
-April 2 - April 8	Hyperparameter Tuning	Model Progress
-April 9 - April 15	Start on Project Report	1st Draft of Checkpoint 3
-April 16 - April 22	Final model tuning and report work	Project Checkpoint 3, 1st draft of report
-April 23 - May 7	Final report work	Final Report Submitted
+### Project Plan
+
+| Week              | Details                                   | Milestone                                  |
+|-------------------|-------------------------------------------|--------------------------------------------|
+| Feb 20 - Feb 26   | Identify Data Sets, Identify Problem      | Present Proposal, Datasets Identified      |
+| Feb 27 - March 4  | Stakeholder Analysis, EDA, Initial Visualization | Completed Stakeholder Analysis and data exploration |
+| March 5 - March 11 | Preprocessing of Data                     | Data is preprocessed and cleaned           |
+| March 12 - March 18 | Initial description                       | Data Description                           |
+| March 19 - March 25 | Decide on classifiers                     | Preliminary Descriptive Analysis           |
+| March 26 - April 1 | Preliminary model runs                    | Project Checkpoint 2                       |
+| April 2 - April 8  | Hyperparameter Tuning                     | Model Progress                             |
+| April 9 - April 15 | Start on Project Report                   | 1st Draft of Checkpoint 3                  |
+| April 16 - April 22 | Final model tuning and report work        | Project Checkpoint 3, 1st draft of report  |
+| April 23 - May 7   | Final report work                         | Final Report Submitted                     |
+
 
 
 ### Risks
