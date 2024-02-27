@@ -41,22 +41,13 @@ Low Power / High Interest Stakeholder: The Centro Bus Company, as the quality of
 
 #### Data
 
-Meteorologists commonly use Road Weather Information Systems (RWIS) to obtain real-time data on how weather affects roads. RWIS includes sensor stations that measure atmospheric, pavement, and water level conditions. The current road safety information relies on these factors, with data collected in real time. However, for predictive purposes, it's crucial to accumulate data during precipitation to accurately forecast road conditions.
-
-The weather dataset for this project was sourced from NASA's POWER Data Access Viewer, focusing on predicting worldwide energy resources. It provides organized CSV files with meteorological and solar data. The dataset specifically covers Syracuse University's location from November 1, 1983, to November 1, 2023, and includes 189,943 data points of weather data.
-
-In addition to the weather dataset, two other datasets will be used: "Road Ratings" and "Potholes," obtained from the City of Syracuse's Open Data Portal.
-
-Road Ratings: This dataset includes biennial assessments of Syracuse's roads, using a rating scale from 1 to 10.
-
-Potholes: This dataset contains information about the city’s potholes, which are common after winter due to snow plows and fluctuating temperatures.
-
-Weather Dataset: NASA's POWER Data Access Viewer 
-Road Ratings and Potholes Datasets: City of Syracuse's Open Data Portal 
-http://www.ongov.net/dot/highway-paving.html
-https://power.larc.nasa.gov/data-access-viewer/
-https://data.syr.gov/
-
+The weather dataset was curated from NASA’s website, which focuses on predicting worldwide energy resources through the POWER Data Access Viewer. This tool, available on the website, provides “meteorological and solar data with geospatial capabilities and is designed to aid in the assessment and planning of renewable energy systems”. It outputs neat and organized CSV files (https://power.larc.nasa.gov/data-access-viewer/).
+The data was specifically extracted for Syracuse University's location, identified by latitude 43.0345 and longitude -76.1372. The dataset covers the period from November 1, 1983, to November 1, 2023, spanning 40 years and includes 189,943 datapoints (14611r x 13c) of weather data, including Temperature, Dewpoint, Wet Bulb, Humidity, and Precipitation.
+In addition to the weather dataset, two other datasets will be used: "Road Ratings" and "Potholes," obtained from the City of Syracuse's Open Data Portal (https://data.syr.gov/).
+Road Ratings: (3675r x 13c)
+This dataset includes information from The City of Syracuse's assessment of its roads on a biennial basis, using a rating scale from 1 to 10, where 10 indicates the best condition and 1 the worst. This data will be used in conjunction with the weather data to investigate how weather affects the area's roadways.
+Potholes: (58314r x 21c)
+This dataset contains information about the city’s potholes. Residents can notify the City of Syracuse's Department of Public Works about specific pothole locations within the city. Potholes are areas of road surface that have deteriorated, often caused by water beneath the asphalt and traffic passing over them. In Syracuse, potholes are common, particularly after winter, when snow plows and fluctuating temperatures contribute to their formation. Like the Road Ratings dataset, this dataset will also be used in conjunction with the weather dataset to understand how weather impacts road conditions in different areas.
 
 ### Methods
 
