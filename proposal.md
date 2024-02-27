@@ -5,7 +5,7 @@
 
 Catie Shelton (cshelto1)
 Ed Cogan (CopoM5)
-Marina
+Marina Mitiaeva (marinamitiaeva)
 Abhi Chakraborty (abchakrasyr)
 Jackson Bayuk (JackBCuse)
 
@@ -90,8 +90,6 @@ Model Comparison: We will compare the performance of different models based on t
 We will use techniques like SHAP (SHapley Additive exPlanations) or feature importance scores to interpret the model's predictions and understand the impact of different features on road condition predictions.
 By following this approach, we aim to develop a robust and interpretable model that can accurately predict road conditions, thereby aiding in effective road management and safety measures.
 
-
-### Project Plan
 
 ### Project Plan
 
