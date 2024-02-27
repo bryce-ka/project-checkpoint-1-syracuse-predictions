@@ -7,7 +7,7 @@ Catie Shelton (cshelto1)
 Ed Cogan (CopoM5)
 Marina
 Abhi Chakraborty (abchakrasyr)
-Jackson Bayuk
+Jackson Bayuk (JackBCuse)
 
 ### Goal: The goal of this machine learning project is to predict the future road conditions of Syracuse, NY, based on weather and road conditions datasets.
 
